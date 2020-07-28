@@ -4,10 +4,10 @@
 ## &nbsp; Pizza Orders App
 
 Stack used for this project: 
-
+```
 	•	Typescript
-  •	Responsive Design Material UI
-  •	React-hook-form
+  	•	Responsive Design Material UI
+  	•	React-hook-form
 	•	React Hooks (useState, useEffect, useMutation, useQuery)
 	•	GraphQL with Apollo
 	•	Styled Components
@@ -16,7 +16,7 @@ Stack used for this project:
 	• Apollo Client to Store data for orders
 	•	Unit test with Jest
 	•	UI minimalistic design Material UI
-  
+ ``` 
  
 
 ## &nbsp; How to run the code
