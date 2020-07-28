@@ -7,7 +7,7 @@ Stack used for this project:
 ```
 	•	Typescript
   	•	Responsive Design Material UI (Accordion, Card, Typography, Button)
-  	•	React-hook-form
+  	•	React-hook-form with custom rules for validation
 	•	React Hooks (useState, useEffect, useMutation, useQuery)
 	•	GraphQL with Apollo
 	•	Styled Components
