@@ -1,0 +1,363 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test MakeOrders Page should render MakeOrders without error 1`] = `
+<div
+  className="sc-bwzfXH fMjrbc"
+>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-2 MuiPaper-outlined MuiPaper-rounded"
+  >
+    <div
+      className="sc-bdVaJa cRofRy"
+    >
+      Make order
+    </div>
+    <div
+      className="sc-htpNat iXDEJs"
+    >
+      <form
+        onSubmit={[Function]}
+      >
+        <div
+          className="sc-bxivhb jAykvH"
+        >
+          <div
+            className="MuiFormControl-root MuiTextField-root"
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+              data-shrink={false}
+              htmlFor="name"
+              id="name-label"
+            >
+              Name
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                id="name"
+                name="name"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={false}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-6"
+                >
+                  <span>
+                    Name
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jAykvH"
+        >
+          <div
+            className="MuiFormControl-root MuiTextField-root"
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+              data-shrink={false}
+              htmlFor="surname"
+              id="surname-label"
+            >
+              Surname
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                id="surname"
+                name="surname"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={false}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-6"
+                >
+                  <span>
+                    Surname
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jAykvH"
+        >
+          <div
+            className="MuiFormControl-root MuiTextField-root"
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+              data-shrink={false}
+              htmlFor="email"
+              id="email-label"
+            >
+              Email
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                id="email"
+                name="email"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={false}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-6"
+                >
+                  <span>
+                    Email
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jAykvH"
+        >
+          <div
+            className="MuiFormControl-root MuiTextField-root"
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+              data-shrink={false}
+              htmlFor="telephone"
+              id="telephone-label"
+            >
+              Telephone
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                id="telephone"
+                name="telephone"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={false}
+                type="text"
+              />
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  className="PrivateNotchedOutline-legendLabelled-6"
+                >
+                  <span>
+                    Telephone
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          className="sc-bxivhb jAykvH"
+        >
+          <div
+            className="MuiFormControl-root makeStyles-formControl-1"
+          >
+            <label
+              className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+              data-shrink={false}
+              htmlFor="pizza"
+            >
+              Name of Pizza
+            </label>
+            <div
+              className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              onClick={[Function]}
+            >
+              <select
+                aria-invalid={false}
+                className="MuiSelect-root MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                disabled={false}
+                id="pizza"
+                multiple={false}
+                name="pizza"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={false}
+              >
+                <option
+                  aria-label="None"
+                  value=""
+                />
+                <option
+                  value="Pepperoni"
+                >
+                  Pepperoni
+                </option>
+                <option
+                  value="Margherita"
+                >
+                  Margherita
+                </option>
+                <option
+                  value="Hawaiian"
+                >
+                  Hawaiian
+                </option>
+              </select>
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+              <fieldset
+                aria-hidden={true}
+                className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+                style={
+                  Object {
+                    "paddingLeft": 8,
+                  }
+                }
+              >
+                <legend
+                  className="PrivateNotchedOutline-legend-5"
+                  style={
+                    Object {
+                      "width": 0.01,
+                    }
+                  }
+                >
+                  <span
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "&#8203;",
+                      }
+                    }
+                  />
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          className="sc-ifAKCX goqgDW"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained"
+            disabled={false}
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="submit"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Submit
+            </span>
+            <span
+              className="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="sc-ifAKCX goqgDW"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Back To Home
+      </span>
+      <span
+        className="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Orders Page should render Orders without error 1`] = `
+<div
+  className="sc-bwzfXH fMjrbc"
+>
+  <div
+    className="sc-ifAKCX iYRSRP"
+  >
+    <div
+      className="sc-bdVaJa cRofRy"
+    >
+      Orders
+    </div>
+  </div>
+  <div
+    className="sc-bxivhb JYVPj"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Back To Home
+      </span>
+      <span
+        className="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
