@@ -5,15 +5,19 @@
 
 Stack used for this project: 
 
-  •	  React Hooks,
-  •	  React-hook-form
-  •	  Graphql
-  •	  Apollo Client to Store data for orders
-  •	  Styled Components
-  •	  Typescript
-  •	  Unit test
-  •	  React Router
-  •	  Responsive Design Material UI
+	•	Typescript
+  •	Responsive Design Material UI
+  •	React-hook-form
+	•	React Hooks (useState, useEffect, useMutation, useQuery)
+	•	GraphQL with Apollo
+	•	Styled Components
+	•	React Router
+	•	Function components with hooks
+	• Apollo Client to Store data for orders
+	•	Unit test with Jest
+	•	UI minimalistic design Material UI
+  
+ 
 
 ## &nbsp; How to run the code
 
