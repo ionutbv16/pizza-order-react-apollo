@@ -13,7 +13,7 @@ Stack used for this project:
 	•	Styled Components
 	•	React Router
 	•	Function components with hooks
-	• Apollo Client to Store data for orders
+	• 	Apollo Client to Store data for orders
 	•	Unit test with Jest
 	•	UI minimalistic design Material UI
  ``` 
